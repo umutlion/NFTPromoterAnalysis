@@ -1,0 +1,3 @@
+*.idea
+*.Twitter.db
+nodeapi/*.node_modules
